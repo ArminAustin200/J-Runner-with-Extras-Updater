@@ -1,7 +1,7 @@
 <jrunner>
-	<delta></delta>
+	<delta>https://github.com/ArminAustin200/J-Runner-with-Extras-V3.3.0-r4/releases/download/3.3.0-r4/JRunner-with-Extras.3.3.0-r4.zip</delta>
 	<full>https://github.com/ArminAustin200/J-Runner-with-Extras-V3.3.0-r4/releases/download/3.3.0-r4/JRunner-with-Extras.3.3.0-r4.zip</full>
-	<md5-delta></md5-delta>
+	<md5-delta>cabd4d42180610b9830c70ec4451d7ed</md5-delta>
 	<md5-full>cabd4d42180610b9830c70ec4451d7ed</md5-full>
 	<min-delta-revision>31</min-delta-revision>
 	<revision>38</revision>
